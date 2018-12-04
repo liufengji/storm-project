@@ -170,7 +170,7 @@
 
     <build>
 
-        <finalName>Elasticsearch_API</finalName>
+        <finalName>storm_project</finalName>
 
         <plugins>
 
